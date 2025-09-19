@@ -16,7 +16,7 @@ A complete, beginner-friendly guide to install Microsoft Office 2024 for free us
 - Move the extracted folder to your `C:\` drive for easy access.
 
 ### ✏️ Step 3: Rename the Folder
-- Rename the extracted folder to exactly:  
+- If the folder is not named "Office 2024", Rename the it to exactly: "Office 2024"  
 
 ### ⚙️ Step 4: Open Command Prompt (CMD) as Administrator
 - Press the **Windows key**, type `CMD`, then **right-click** and select **Run as Administrator**.
